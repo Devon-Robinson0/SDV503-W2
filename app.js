@@ -10,3 +10,7 @@ score = 10; // Ok - reassignment allowed for let
 
 const MAX = 100;
 //Max = 200; wont work because its a const variable // TypeError; assignment to constant variable.
+
+let homeAddress = "5 Kingi Place, Richmond"; //camelCase
+let userAge = 32;
+console.log(userAge);
