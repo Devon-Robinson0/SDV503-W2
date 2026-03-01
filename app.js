@@ -13,4 +13,13 @@ const MAX = 100;
 
 let homeAddress = "5 Kingi Place, Richmond"; //camelCase
 let userAge = 32;
-console.log(userAge);
+console.log(typeof userAge);
+
+console.log(2 ** 3);
+console.log(5 === 5);
+
+console.log(5 === "5");
+console.log(5 == "5");
+
+console.log(5 !== 5);
+console.log(5 === 5);
