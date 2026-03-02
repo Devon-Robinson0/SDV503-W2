@@ -22,4 +22,11 @@ console.log(5 === "5");
 console.log(5 == "5");
 
 console.log(5 !== 5);
-console.log(5 === 5);
+console.log(5 <= 5);
+
+let bool1 = false;
+let bool2 = false;
+
+if (!bool1 || bool2) {
+    console.log("At least one is true");
+}
